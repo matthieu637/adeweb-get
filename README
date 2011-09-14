@@ -1,0 +1,38 @@
+####################################################
+####################################################
+#     STILL IN BETA (WORKS TO MY UNIVERSITY )      #
+# ENCORE EN BETA (FONCTIONNE DANS MON UNIVERSITE ) #
+####################################################
+####################################################
+
+
+
+
+
+Do not waste anymore time by searching your ADEWEB's schedule.
+With this utility you can get it with a single command line.
+You can format it more as you see fit.
+Example of use : http://neo.dyndns-web.com/~matthieu/fac/EDT/
+---------------------------------------------------
+Ne perdez plus de temps à chercher votre emploi du temps sur ADEWEB.
+Avec cet utilitaire vous pouvez le récupérer en une seul commande.
+Vous pouvez de plus le formatter comme bon vous semble.
+Exemple d'utilisation : http://neo.dyndns-web.com/~matthieu/fac/EDT/
+
+
+
+
+The source code currently uses the library httpcomponent 
+of the Apache Foundation submitted to the Apache license:
+http://www.apache.org/licenses/LICENSE-2.0
+Our own code is currently copyright-free.
+---------------------------------------------------
+Le code utilise actuellement la librairie httpcomponent 
+de la fondation apache soumit à la licence :
+http://www.apache.org/licenses/LICENSE-2.0
+Le code est actuellement libre de tout droit.
+
+
+
+
+
